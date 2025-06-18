@@ -1,4 +1,5 @@
-## Hi there 👋
+Cix na área, como cês estão.
+bem vindos a minha página pessoal aqui disponibilizarei os diretorios para minhas páginas, sigam e compartilhem," mas e se ela disse isso" mais trabalhos, sigam as página 
 
 <!--
 **adercix/Adercix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
